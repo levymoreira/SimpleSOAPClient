@@ -1,0 +1,6 @@
+Exemplo de uso do JAX RS - Cliente
+
+Ambiente: TOMCAT, Eclipse LunaRelease (4.4.0) 
+
+Para testar:
+Apos subir o servidor SimpleSOAPServer siga as instrucoes da classe WebServiceClient
